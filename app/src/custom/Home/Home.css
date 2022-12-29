@@ -1,0 +1,22 @@
+.p-Home.Flex100,
+.p-Home.Flex121,
+.p-Home.TextBox118,
+.p-Home.TextBox123,
+.p-Home.TextBox153,
+.p-Home.TextBox187,
+.p-Home.TextBox194,
+.p-Home.TextBox197,
+.p-Home.TextBox223,
+.p-Home.TextBox254,
+.p-Home.TextBox273,
+.p-Home.TextBox260
+{
+  background-image: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
+
+
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+
+  font-weight: 700;
+}
+

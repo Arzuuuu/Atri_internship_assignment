@@ -1,0 +1,21 @@
+.p-trial.Div1 {
+;
+}
+.p-trial.Flex2 {
+display: flex;
+}
+.p-trial.Flex204 {
+display: flex;
+}
+.p-trial.Flex205 {
+display: flex;
+flex-direction: column;
+}
+.p-trial.TextBox122 {
+width: 1000px;
+height: 500px;
+}
+.p-trial.Carousel7 {
+height: 300px;
+width: 400px;
+}
